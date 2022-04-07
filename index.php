@@ -9,5 +9,5 @@
 		<p><b>An New Example of PHP in Action</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
-	</body> 
+</body> 
 </html>
